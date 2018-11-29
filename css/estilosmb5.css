@@ -146,7 +146,7 @@ text-align:center;
 .button1 {
     background-color: white; 
     color: black; 
-    border: 2px solid yellow;
+    border: 2px solid #333;
 }
 
 .button1:hover {
@@ -157,7 +157,7 @@ text-align:center;
 .button2 {
     background-color: white; 
     color: black; 
-    border: 2px solid yellow;
+    border: 2px solid #333;
 }
 
 .button2:hover {
@@ -168,7 +168,7 @@ text-align:center;
 .button3 {
     background-color: white; 
     color: black; 
-    border: 2px solid yellow;
+    border: 2px solid #333;
 }
 
 .button3:hover {
@@ -179,7 +179,7 @@ text-align:center;
 .button4 {
     background-color: white;
     color: black;
-    border: 2px solid yellow;
+    border: 2px solid #333;
 }
 
 .button4:hover {background-color: #3B87F5;
@@ -188,7 +188,7 @@ color:white;}
 .button5 {
     background-color: white;
     color: black;
-    border: 2px solid orange;
+    border: 2px solid #333;
 }
 
 .button5:hover {
@@ -199,7 +199,7 @@ color:white;}
 .button6 {
     background-color: white;
     color: black;
-    border: 2px solid orange;
+    border: 2px solid #333;
 }
 
 .button6:hover {background-color: #1B51EE;
@@ -207,7 +207,7 @@ color:white;}
 .button7 {
     background-color: white;
     color: black;
-    border: 2px solid orange;
+    border: 2px solid #333;
 }
 
 .button7:hover {background-color: #12902B;
@@ -215,7 +215,7 @@ color:white;}
 .button8 {
     background-color: white;
     color: black;
-    border: 2px solid orange;
+    border: 2px solid #333;
 }
 
 .button8:hover {background-color: #E00B72;
@@ -223,7 +223,7 @@ color:white;}
 .button9 {
     background-color: white;
     color: black;
-    border: 2px solid red;
+    border: 2px solid #333;
 }
 
 .button9:hover {background-color: #FF0606;
@@ -231,7 +231,7 @@ color:white;}
 .button10 {
     background-color: white;
     color: black;
-    border: 2px solid red;
+    border: 2px solid #333;
 }
 
 .button10:hover {background-color: #F1EF4E;
@@ -239,7 +239,7 @@ color:white;}
 .button11 {
     background-color: white;
     color: black;
-    border: 2px solid red;
+    border: 2px solid #333;
 }
 
 .button11:hover {background-color: #08CFF3;
@@ -247,7 +247,7 @@ color:white;}
 .button12 {
     background-color: white;
     color: black;
-    border: 2px solid red;
+    border: 2px solid #333;
 }
 
 .button12:hover {background-color: #08CFF3;
@@ -255,7 +255,7 @@ color:white;}
 .button13 {
     background-color: white;
     color: black;
-    border: 2px solid red;
+    border: 2px solid #333;
 }
 
 .button13:hover {background-color: #F1A229;
