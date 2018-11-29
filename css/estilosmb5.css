@@ -58,7 +58,7 @@ ul {
     margin: 0;
     padding: 0.5px;
     overflow: hidden;
-    background-color: transparent;
+    background-color: #333;
 }
 
 li {
@@ -67,14 +67,14 @@ li {
 /*letras del enlace */
 li a {
     display: block;
-    color: BLACK;
+    color: white;
     text-align: right;
     padding: 15px 16px;
     text-decoration: none;
 }
 
 li a:hover {
-    background-color:lightgray;
+    background-color:black;
 
 }
 /*Buenos aires ciudad*/
@@ -125,5 +125,138 @@ text-align:right;
 }
 h2{
 text-align:center;
-  background-color:Lightblue;
+  background-color:transparent;
+   margin: 8px 500px;
 }
+.button {
+    background-color: white; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button1 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid yellow;
+}
+
+.button1:hover {
+    background-color: yellow;
+    color: black;
+}
+
+.button2 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid yellow;
+}
+
+.button2:hover {
+    background-color: #F55D3B;
+    color: white;
+}
+
+.button3 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid yellow;
+}
+
+.button3:hover {
+    background-color: orange;
+    color: white;
+}
+
+.button4 {
+    background-color: white;
+    color: black;
+    border: 2px solid yellow;
+}
+
+.button4:hover {background-color: #3B87F5;
+color:white;}
+
+.button5 {
+    background-color: white;
+    color: black;
+    border: 2px solid orange;
+}
+
+.button5:hover {
+    background-color: #5EEE1B;
+    color: white;
+    
+}
+.button6 {
+    background-color: white;
+    color: black;
+    border: 2px solid orange;
+}
+
+.button6:hover {background-color: #1B51EE;
+color:white;}
+.button7 {
+    background-color: white;
+    color: black;
+    border: 2px solid orange;
+}
+
+.button7:hover {background-color: #12902B;
+color:white;}
+.button8 {
+    background-color: white;
+    color: black;
+    border: 2px solid orange;
+}
+
+.button8:hover {background-color: #E00B72;
+color:white;}
+.button9 {
+    background-color: white;
+    color: black;
+    border: 2px solid red;
+}
+
+.button9:hover {background-color: #FF0606;
+color:white;}
+.button10 {
+    background-color: white;
+    color: black;
+    border: 2px solid red;
+}
+
+.button10:hover {background-color: #F1EF4E;
+color:white;}
+.button11 {
+    background-color: white;
+    color: black;
+    border: 2px solid red;
+}
+
+.button11:hover {background-color: #08CFF3;
+color:white;}
+.button12 {
+    background-color: white;
+    color: black;
+    border: 2px solid red;
+}
+
+.button12:hover {background-color: #08CFF3;
+color:white;}
+.button13 {
+    background-color: white;
+    color: black;
+    border: 2px solid red;
+}
+
+.button13:hover {background-color: #F1A229;
+color:white;}
